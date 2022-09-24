@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T03:37:21.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AK9y5QI_QetL37o7Ts1s" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T03:39:45.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="T1690xaoxN3Tfw1nm5kk" version="20.2.2" type="github">
   <diagram id="XWlQeay_2aBtH9ex64kx" name="Page-1">
-    <mxGraphModel dx="921" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
         <mxCell id="jPVGhE0tIHSrpaLAawch-28" value="金庸" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="502" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPVGhE0tIHSrpaLAawch-29" value="最高权限&lt;br&gt;（管理所有用户和资源）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jPVGhE0tIHSrpaLAawch-29" value="最高权限&lt;br&gt;（管理所有用户、资源和访问权限）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="644" y="502" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPVGhE0tIHSrpaLAawch-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jPVGhE0tIHSrpaLAawch-17">
